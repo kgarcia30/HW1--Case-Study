@@ -1,8 +1,8 @@
-#Global Identity Innovation
+# Global Identity Innovation
 
 ![](https://truststamp.ai/ai/technology-new-1.png?_=kbceczlq)
 
-##Technology that creates  secure tokenized identities using *Evergreen Hash*, which acts as a pivot to reflect data needs and access.
+## Technology that creates  secure tokenized identities using *Evergreen Hash*, which acts as a pivot to reflect data needs and access.
 
 
 
